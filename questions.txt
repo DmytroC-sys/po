@@ -1,0 +1,34 @@
+Being a DevOps Engineer you should know these basic stuff and here are some basic interview questions with answers.
+
+ Q1: What is Azure DevOps?
+
+Azure DevOps is a suite of tools for CI/CD, version control, testing, and collaboration, supporting agile workflows.
+
+ Q2: What is the concept of sharding in databases?
+
+Sharding is a database partitioning technique that splits data across multiple servers for scalability and performance.
+
+Q3: What is the role of an API gateway in microservices?
+
+ An API gateway manages requests, handles authentication, and routes traffic between clients and microservices.
+
+Q4: What is Git branching strategy?
+
+A branching strategy (e.g., GitFlow) organizes code development by using branches like feature, release, and main for collaboration.
+
+Q5: What is AWS CloudFormation?
+
+AWS CloudFormation automates resource provisioning using IaC templates, ensuring repeatable infrastructure setup.
+
+Q6: What is a reverse proxy, and how is it used in DevOps?
+
+A reverse proxy (e.g., NGINX) directs client requests to backend services, improving security and load balancing.
+
+Q7: What is Blue/Green Deployment?
+
+This strategy uses two environments—one for the live version and one for testing—before switching traffic to reduce risks.
+
+Q8: What is a CDN in cloud computing?
+
+A Content Delivery Network (CDN) accelerates content delivery by caching data at edge locations near users.
+
