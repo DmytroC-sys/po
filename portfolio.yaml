@@ -14,8 +14,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> e8fce8e212cf91f6dd881456d459526bc57cf4ce
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
